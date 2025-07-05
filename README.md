@@ -44,7 +44,7 @@ This project uses a custom neural network built with PyTorch to predict FPL play
 
 3. **Install dependencies**
    ```bash
-   pip install torch pandas numpy matplotlib seaborn
+   pip install torch pandas numpy matplotlib seaborn scikit-learn
    ```
 
 ## 🚀 Usage
